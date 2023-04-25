@@ -1,0 +1,23 @@
+{
+  "name": "wayback-scraper",
+  "version": "1.0.0",
+  "description": "A scraping script to help automate the collection of URL's against a target, instead of manually collecting dozens of pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBigStonk/wayback-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBigStonk/wayback-scraper/issues"
+  },
+  "homepage": "https://github.com/TheBigStonk/wayback-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^19.11.0"
+  }
+}
